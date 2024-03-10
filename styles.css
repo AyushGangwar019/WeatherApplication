@@ -24,9 +24,7 @@ body{
     align-items: center;
     justify-content: space-between;
 }
-
 .search input{
-
     border: 0;
     outline: 0;
     background: #ebfffc;
@@ -105,7 +103,6 @@ body{
     color: #fff;
     visibility: hidden;
     transition: transform 0.2s,top 0.4s;
-
 }
 .popup img{
     width: 100px;
